@@ -3,7 +3,7 @@ HowTo: Como fazer Café
 
 Siga atentamente os passos descritos abaixo para fazer o café:
 
-1. Lave a vasilha (de vidro) da cafeteira, para enchê-la com água potável
+1. Lave a vasilha (de inox) da cafeteira juntamente com a garrafa térmica, caso 
    , juntamente com a garrafa térmica caso contenha nela algum resquício de café
    a ser despejado. Não esqueça de lavar as mãos. :)
 2. Coloque a água na vasilha, dimensionando a quantidade de acordo com a
