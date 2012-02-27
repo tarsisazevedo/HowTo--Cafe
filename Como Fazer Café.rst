@@ -4,12 +4,12 @@ HowTo: Como fazer Café
 Siga atentamente os passos descritos abaixo para fazer o café:
 
 1. Lave a vasilha (de inox) da cafeteira juntamente com a garrafa térmica, caso 
-   , juntamente com a garrafa térmica caso contenha nela algum resquício de café
-   a ser despejado. Não esqueça de lavar as mãos. :)
-2. Coloque a água na vasilha, dimensionando a quantidade de acordo com a
-   quantidade de copos de café a serem feitos. A vasilha CHEIA permite um total 
-   de 12 copos(200ml) serem feitos ao mesmo tempo. Sendo assim, não ultrapasse esse limite.
-3. Coloque a água da vasilha no recipiente traseiro da cafeteira.
+   contenha nela algum resquício de café. Não esqueça de lavar as mãos. :)
+2. Coloque a água(do bebedouro) na vasilha, dimensionando a quantidade de acordo
+   com aquantidade de copos de café a serem feitos. A vasilha CHEIA permite um 
+   total de 12 copos(200ml) serem feitos ao mesmo tempo. Sendo assim, não 
+   ultrapasse esse limite.
+3. Despeje a água da vasilha no recipiente traseiro da cafeteira.
 4. Pegue um filtro de papel, dobre suas pontas, permitindo colocá-lo no recipiente
    ACIMA do local onde fica o café ficará condicionado após o processo de
    filtragem. Condicione o filtro de papel corretamente.
